@@ -1,38 +1,38 @@
 export default {
-  clientId: 385,
-  roomURL: 'https://room.os2edu.cn',
-  logo: 'https://ssl.cdn.maodouketang.com/Fpkgonzaw5GTUFa0Bfvd_ZlO5yq1',
-  title: '开源操作系统社区',
-  subTitle: '促进操作系统的教学、研究与产业的发展',
+  clientId: 466,
+  roomURL: 'https://room.loongsonedu.cn',
+  logo: 'https://ssl.cdn.maodouketang.com/FsELfTn2KhwjVxKpABQGhyoR-IbH',
+  title: '龙芯开源技术开发者社区',
+  subTitle: '促进龙芯开源技术的教学、研究与产业的发展',
   footer: {
     resources: [
       {
-        text: 'Rust基础教程',
-        link: 'http://docs.os2edu.cn/'
+        text: '下载中心',
+        link: 'https://www.loongson.cn/download/index'
       },
       {
-        text: '清华rCore操作系统实践教程',
-        link: 'http://rcore-os.cn/rCore-Tutorial-Book-v3/'
+        text: '龙芯实验室',
+        link: 'https://www.loongson.cn/application/list?id=38'
       },
       {
-        text: '全国大学生操作系统设计大赛',
-        link: 'https://os.educg.net/2022CSCC'
+        text: '龙芯开源社区',
+        link: 'http://www.loongnix.cn/zh/'
       }
     ],
     contact: [
       {
-        label: '电话',
+        label: '课程咨询',
         text: '13691584139'
       },
       {
-        label: '邮箱',
-        text: 'hello@maodou.io'
+        label: '客服热线',
+        text: '010-62546668'
       },
       {
         label: '地址',
-        text: '北京市海淀区清华科技园科技大厦C座G05'
+        text: '北京市海淀区地锦路7号院4号楼1层101'
       }
     ],
-    recordNumber: '北京清华大学·京ICP备16045052号-11'
+    recordNumber: '龙芯中科技术股份有限公司·京ICP备16045052号-11'
   }
 }
